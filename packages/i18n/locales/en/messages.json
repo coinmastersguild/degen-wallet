@@ -1,0 +1,79 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "DEGEN Wallet extension for seamless Solana blockchain interactions"
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "DEGEN Wallet"
+  },
+  "toggleTheme": {
+    "message": "Toggle theme"
+  },
+  "loading": {
+    "message": "Loading..."
+  },
+  "welcomeMessage": {
+    "description": "Welcome message",
+    "message": "Welcome to DEGEN Wallet"
+  },
+  "greeting": {
+    "description": "Greeting message",
+    "message": "Hello, my name is $NAME$",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "DEGEN"
+      }
+    }
+  },
+  "connectWallet": {
+    "message": "Connect your wallet"
+  },
+  "disconnectWallet": {
+    "message": "Disconnect your wallet"
+  },
+  "balance": {
+    "description": "User balance display",
+    "message": "Your balance: $BALANCE$ SOL",
+    "placeholders": {
+      "balance": {
+        "content": "$1",
+        "example": "100.0"
+      }
+    }
+  },
+  "transactionSuccess": {
+    "message": "Transaction completed successfully!"
+  },
+  "transactionError": {
+    "message": "An error occurred during the transaction"
+  },
+  "copyAddress": {
+    "message": "Copy wallet address"
+  },
+  "addressCopied": {
+    "message": "Wallet address copied to clipboard"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "networkSwitch": {
+    "message": "Switch network"
+  },
+  "networkSwitched": {
+    "message": "Network switched to $NETWORK$",
+    "placeholders": {
+      "network": {
+        "content": "$1",
+        "example": "Mainnet Beta"
+      }
+    }
+  },
+  "about": {
+    "message": "About DEGEN Wallet"
+  },
+  "securityReminder": {
+    "message": "Never share your seed phrase with anyone"
+  }
+}
